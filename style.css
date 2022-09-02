@@ -8,6 +8,7 @@ body{
     padding: 10px 15px;
     color: white;
     border-radius: 20px;
+    text-align: center;
 
     
 }
@@ -23,6 +24,7 @@ body{
 #font-test{
     color: yellow;
     font-size: 20px;
+    margin-bottom: 40px;
 }
 .amount-page{
     text-align: center;
@@ -49,4 +51,14 @@ body{
     background-color: antiquewhite;
     border: 2px solid red;
 }
-
+.input{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+#input-button{
+    text-align: center;
+    margin-left: 50%;
+    margin-top: 20px;
+    
+}
