@@ -8,6 +8,7 @@ body{
     padding: 10px 15px;
     color: white;
     border-radius: 20px;
+
     
 }
 .font-page{
@@ -21,5 +22,31 @@ body{
 }
 #font-test{
     color: yellow;
-    font-size: 30px;
+    font-size: 20px;
 }
+.amount-page{
+    text-align: center;
+    margin: 30px;
+}
+.donation-amount{
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.amount{
+    width: 30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(243, 240, 240);
+    text-align: center;
+    font-weight: 800px;
+    font-size: 25px;
+}
+#amount-200tk{
+    background-color: antiquewhite;
+    border: 2px solid red;
+}
+
