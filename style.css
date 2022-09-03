@@ -14,12 +14,13 @@ body{
 }
 .font-page{
     text-align: center;
-    color:white;
+    color:rgb(240, 240, 241);
     font-size: 40px;
-    background-image: url(images/donation13.jpg);
+    background-image: url(images/donation6.jpg);
     background-repeat: no-repeat;
     background-size: 100% ;
-    padding-bottom: 80px;
+    padding-bottom: 150px;
+    padding-top: 120px;
 }
 #font-test{
     color: yellow;
